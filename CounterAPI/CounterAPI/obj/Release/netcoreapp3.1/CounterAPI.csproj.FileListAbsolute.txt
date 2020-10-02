@@ -1,0 +1,21 @@
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\ToUkerCounterAPI - Web Deploy\profile.arm.json
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\bin\Release\netcoreapp3.1\CounterAPI.exe
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\bin\Release\netcoreapp3.1\CounterAPI.deps.json
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\bin\Release\netcoreapp3.1\CounterAPI.runtimeconfig.json
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\bin\Release\netcoreapp3.1\CounterAPI.runtimeconfig.dev.json
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\bin\Release\netcoreapp3.1\CounterAPI.dll
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\bin\Release\netcoreapp3.1\CounterAPI.pdb
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\obj\Release\netcoreapp3.1\CounterAPI.csprojAssemblyReference.cache
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\obj\Release\netcoreapp3.1\CounterAPI.AssemblyInfoInputs.cache
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\obj\Release\netcoreapp3.1\CounterAPI.AssemblyInfo.cs
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\obj\Release\netcoreapp3.1\CounterAPI.csproj.CoreCompileInputs.cache
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\obj\Release\netcoreapp3.1\CounterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\obj\Release\netcoreapp3.1\CounterAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\obj\Release\netcoreapp3.1\staticwebassets\CounterAPI.StaticWebAssets.Manifest.cache
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\obj\Release\netcoreapp3.1\staticwebassets\CounterAPI.StaticWebAssets.xml
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\obj\Release\netcoreapp3.1\CounterAPI.dll
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\obj\Release\netcoreapp3.1\CounterAPI.pdb
+C:\Users\jjarnes\OneDrive - Communicate Norge AS\CounterAPI\CounterAPI\CounterAPI\obj\Release\netcoreapp3.1\CounterAPI.genruntimeconfig.cache
